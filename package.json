@@ -1,0 +1,18 @@
+{
+  "name": "balance_loader",
+  "version": "1.0.0",
+  "description": "Koho take home challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Balraj Shah",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
